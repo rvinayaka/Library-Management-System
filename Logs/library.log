@@ -1,0 +1,929 @@
+WARNING :- 2023-04-04 17:43:13,620 - app : Starting the db connection to update the details 
+INFO :- 2023-04-04 17:43:13,841 - app : Member details updated: {'username': 'Anjali'}
+INFO :- 2023-04-04 17:43:13,841 - app : Member details updated: {'username': 'Anjali'}
+WARNING :- 2023-04-04 17:43:13,842 - app : Hence member details updated, closing the connection
+WARNING :- 2023-04-04 17:43:13,842 - app : Hence member details updated, closing the connection
+WARNING :- 2023-04-04 17:43:13,842 - app : Hence member details updated, closing the connection
+WARNING :- 2023-04-04 17:43:42,392 - app : Starting the db connection to update the details 
+WARNING :- 2023-04-04 17:43:42,392 - app : Starting the db connection to update the details 
+WARNING :- 2023-04-04 17:43:42,392 - app : Starting the db connection to update the details 
+WARNING :- 2023-04-04 17:43:42,392 - app : Starting the db connection to update the details 
+INFO :- 2023-04-04 17:43:42,712 - app : Member details updated: {'username': 'Kabir'}
+INFO :- 2023-04-04 17:43:42,712 - app : Member details updated: {'username': 'Kabir'}
+INFO :- 2023-04-04 17:43:42,712 - app : Member details updated: {'username': 'Kabir'}
+INFO :- 2023-04-04 17:43:42,712 - app : Member details updated: {'username': 'Kabir'}
+INFO :- 2023-04-04 17:43:42,712 - app : Member details updated: {'username': 'Kabir'}
+WARNING :- 2023-04-04 17:43:42,713 - app : Hence member details updated, closing the connection
+WARNING :- 2023-04-04 17:43:42,713 - app : Hence member details updated, closing the connection
+WARNING :- 2023-04-04 17:43:42,713 - app : Hence member details updated, closing the connection
+WARNING :- 2023-04-04 17:43:42,713 - app : Hence member details updated, closing the connection
+WARNING :- 2023-04-04 17:43:42,713 - app : Hence member details updated, closing the connection
+WARNING :- 2023-04-04 17:43:42,713 - app : Hence member details updated, closing the connection
+WARNING :- 2023-04-04 17:47:35,982 - app : Starting the db connection to display items in the cart
+WARNING :- 2023-04-04 17:47:35,982 - app : Starting the db connection to display items in the cart
+WARNING :- 2023-04-04 17:47:35,982 - app : Starting the db connection to display items in the cart
+WARNING :- 2023-04-04 17:47:35,982 - app : Starting the db connection to display items in the cart
+WARNING :- 2023-04-04 17:47:35,982 - app : Starting the db connection to display items in the cart
+WARNING :- 2023-04-04 17:47:35,982 - app : Starting the db connection to display items in the cart
+WARNING :- 2023-04-04 17:47:35,982 - app : Starting the db connection to display items in the cart
+ERROR :- 2023-04-04 17:47:36,287 - app : Error occurred: invalid input syntax for type boolean: "1992-03-17"
+LINE 2: ...d) VALUES ('Encyclopedia', 'Kabir', '1990-12-23', '1992-03-1...
+                                                             ^
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 40, in add_member
+    cur.execute(add_query, values)
+psycopg2.errors.InvalidTextRepresentation: invalid input syntax for type boolean: "1992-03-17"
+LINE 2: ...d) VALUES ('Encyclopedia', 'Kabir', '1990-12-23', '1992-03-1...
+                                                             ^
+
+ERROR :- 2023-04-04 17:47:36,287 - app : Error occurred: invalid input syntax for type boolean: "1992-03-17"
+LINE 2: ...d) VALUES ('Encyclopedia', 'Kabir', '1990-12-23', '1992-03-1...
+                                                             ^
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 40, in add_member
+    cur.execute(add_query, values)
+psycopg2.errors.InvalidTextRepresentation: invalid input syntax for type boolean: "1992-03-17"
+LINE 2: ...d) VALUES ('Encyclopedia', 'Kabir', '1990-12-23', '1992-03-1...
+                                                             ^
+
+ERROR :- 2023-04-04 17:47:36,287 - app : Error occurred: invalid input syntax for type boolean: "1992-03-17"
+LINE 2: ...d) VALUES ('Encyclopedia', 'Kabir', '1990-12-23', '1992-03-1...
+                                                             ^
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 40, in add_member
+    cur.execute(add_query, values)
+psycopg2.errors.InvalidTextRepresentation: invalid input syntax for type boolean: "1992-03-17"
+LINE 2: ...d) VALUES ('Encyclopedia', 'Kabir', '1990-12-23', '1992-03-1...
+                                                             ^
+
+ERROR :- 2023-04-04 17:47:36,287 - app : Error occurred: invalid input syntax for type boolean: "1992-03-17"
+LINE 2: ...d) VALUES ('Encyclopedia', 'Kabir', '1990-12-23', '1992-03-1...
+                                                             ^
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 40, in add_member
+    cur.execute(add_query, values)
+psycopg2.errors.InvalidTextRepresentation: invalid input syntax for type boolean: "1992-03-17"
+LINE 2: ...d) VALUES ('Encyclopedia', 'Kabir', '1990-12-23', '1992-03-1...
+                                                             ^
+
+ERROR :- 2023-04-04 17:47:36,287 - app : Error occurred: invalid input syntax for type boolean: "1992-03-17"
+LINE 2: ...d) VALUES ('Encyclopedia', 'Kabir', '1990-12-23', '1992-03-1...
+                                                             ^
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 40, in add_member
+    cur.execute(add_query, values)
+psycopg2.errors.InvalidTextRepresentation: invalid input syntax for type boolean: "1992-03-17"
+LINE 2: ...d) VALUES ('Encyclopedia', 'Kabir', '1990-12-23', '1992-03-1...
+                                                             ^
+
+ERROR :- 2023-04-04 17:47:36,287 - app : Error occurred: invalid input syntax for type boolean: "1992-03-17"
+LINE 2: ...d) VALUES ('Encyclopedia', 'Kabir', '1990-12-23', '1992-03-1...
+                                                             ^
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 40, in add_member
+    cur.execute(add_query, values)
+psycopg2.errors.InvalidTextRepresentation: invalid input syntax for type boolean: "1992-03-17"
+LINE 2: ...d) VALUES ('Encyclopedia', 'Kabir', '1990-12-23', '1992-03-1...
+                                                             ^
+
+ERROR :- 2023-04-04 17:47:36,287 - app : Error occurred: invalid input syntax for type boolean: "1992-03-17"
+LINE 2: ...d) VALUES ('Encyclopedia', 'Kabir', '1990-12-23', '1992-03-1...
+                                                             ^
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 40, in add_member
+    cur.execute(add_query, values)
+psycopg2.errors.InvalidTextRepresentation: invalid input syntax for type boolean: "1992-03-17"
+LINE 2: ...d) VALUES ('Encyclopedia', 'Kabir', '1990-12-23', '1992-03-1...
+                                                             ^
+
+ERROR :- 2023-04-04 17:47:36,287 - app : Error occurred: invalid input syntax for type boolean: "1992-03-17"
+LINE 2: ...d) VALUES ('Encyclopedia', 'Kabir', '1990-12-23', '1992-03-1...
+                                                             ^
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 40, in add_member
+    cur.execute(add_query, values)
+psycopg2.errors.InvalidTextRepresentation: invalid input syntax for type boolean: "1992-03-17"
+LINE 2: ...d) VALUES ('Encyclopedia', 'Kabir', '1990-12-23', '1992-03-1...
+                                                             ^
+
+WARNING :- 2023-04-04 17:47:36,288 - app : Hence member added, closing the connection
+WARNING :- 2023-04-04 17:47:36,288 - app : Hence member added, closing the connection
+WARNING :- 2023-04-04 17:47:36,288 - app : Hence member added, closing the connection
+WARNING :- 2023-04-04 17:47:36,288 - app : Hence member added, closing the connection
+WARNING :- 2023-04-04 17:47:36,288 - app : Hence member added, closing the connection
+WARNING :- 2023-04-04 17:47:36,288 - app : Hence member added, closing the connection
+WARNING :- 2023-04-04 17:47:36,288 - app : Hence member added, closing the connection
+WARNING :- 2023-04-04 17:47:36,288 - app : Hence member added, closing the connection
+WARNING :- 2023-04-04 17:47:36,288 - app : Hence member added, closing the connection
+ERROR :- 2023-04-04 17:47:36,289 - app : Exception on /register [POST]
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 40, in add_member
+    cur.execute(add_query, values)
+psycopg2.errors.InvalidTextRepresentation: invalid input syntax for type boolean: "1992-03-17"
+LINE 2: ...d) VALUES ('Encyclopedia', 'Kabir', '1990-12-23', '1992-03-1...
+                                                             ^
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 48, in add_member
+    return jsonify({"message": error})
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "/usr/lib/python3.8/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/usr/lib/python3.8/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.8/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type InvalidTextRepresentation is not JSON serializable
+ERROR :- 2023-04-04 17:47:36,289 - app : Exception on /register [POST]
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 40, in add_member
+    cur.execute(add_query, values)
+psycopg2.errors.InvalidTextRepresentation: invalid input syntax for type boolean: "1992-03-17"
+LINE 2: ...d) VALUES ('Encyclopedia', 'Kabir', '1990-12-23', '1992-03-1...
+                                                             ^
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 48, in add_member
+    return jsonify({"message": error})
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "/usr/lib/python3.8/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/usr/lib/python3.8/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.8/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type InvalidTextRepresentation is not JSON serializable
+ERROR :- 2023-04-04 17:47:36,289 - app : Exception on /register [POST]
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 40, in add_member
+    cur.execute(add_query, values)
+psycopg2.errors.InvalidTextRepresentation: invalid input syntax for type boolean: "1992-03-17"
+LINE 2: ...d) VALUES ('Encyclopedia', 'Kabir', '1990-12-23', '1992-03-1...
+                                                             ^
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 48, in add_member
+    return jsonify({"message": error})
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "/usr/lib/python3.8/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/usr/lib/python3.8/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.8/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type InvalidTextRepresentation is not JSON serializable
+ERROR :- 2023-04-04 17:47:36,289 - app : Exception on /register [POST]
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 40, in add_member
+    cur.execute(add_query, values)
+psycopg2.errors.InvalidTextRepresentation: invalid input syntax for type boolean: "1992-03-17"
+LINE 2: ...d) VALUES ('Encyclopedia', 'Kabir', '1990-12-23', '1992-03-1...
+                                                             ^
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 48, in add_member
+    return jsonify({"message": error})
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "/usr/lib/python3.8/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/usr/lib/python3.8/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.8/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type InvalidTextRepresentation is not JSON serializable
+ERROR :- 2023-04-04 17:47:36,289 - app : Exception on /register [POST]
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 40, in add_member
+    cur.execute(add_query, values)
+psycopg2.errors.InvalidTextRepresentation: invalid input syntax for type boolean: "1992-03-17"
+LINE 2: ...d) VALUES ('Encyclopedia', 'Kabir', '1990-12-23', '1992-03-1...
+                                                             ^
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 48, in add_member
+    return jsonify({"message": error})
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "/usr/lib/python3.8/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/usr/lib/python3.8/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.8/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type InvalidTextRepresentation is not JSON serializable
+ERROR :- 2023-04-04 17:47:36,289 - app : Exception on /register [POST]
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 40, in add_member
+    cur.execute(add_query, values)
+psycopg2.errors.InvalidTextRepresentation: invalid input syntax for type boolean: "1992-03-17"
+LINE 2: ...d) VALUES ('Encyclopedia', 'Kabir', '1990-12-23', '1992-03-1...
+                                                             ^
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 48, in add_member
+    return jsonify({"message": error})
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "/usr/lib/python3.8/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/usr/lib/python3.8/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.8/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type InvalidTextRepresentation is not JSON serializable
+ERROR :- 2023-04-04 17:47:36,289 - app : Exception on /register [POST]
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 40, in add_member
+    cur.execute(add_query, values)
+psycopg2.errors.InvalidTextRepresentation: invalid input syntax for type boolean: "1992-03-17"
+LINE 2: ...d) VALUES ('Encyclopedia', 'Kabir', '1990-12-23', '1992-03-1...
+                                                             ^
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 48, in add_member
+    return jsonify({"message": error})
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "/usr/lib/python3.8/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/usr/lib/python3.8/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.8/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type InvalidTextRepresentation is not JSON serializable
+ERROR :- 2023-04-04 17:47:36,289 - app : Exception on /register [POST]
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 40, in add_member
+    cur.execute(add_query, values)
+psycopg2.errors.InvalidTextRepresentation: invalid input syntax for type boolean: "1992-03-17"
+LINE 2: ...d) VALUES ('Encyclopedia', 'Kabir', '1990-12-23', '1992-03-1...
+                                                             ^
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 48, in add_member
+    return jsonify({"message": error})
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "/usr/lib/python3.8/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/usr/lib/python3.8/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.8/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type InvalidTextRepresentation is not JSON serializable
+ERROR :- 2023-04-04 17:47:36,289 - app : Exception on /register [POST]
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 40, in add_member
+    cur.execute(add_query, values)
+psycopg2.errors.InvalidTextRepresentation: invalid input syntax for type boolean: "1992-03-17"
+LINE 2: ...d) VALUES ('Encyclopedia', 'Kabir', '1990-12-23', '1992-03-1...
+                                                             ^
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 48, in add_member
+    return jsonify({"message": error})
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "/usr/lib/python3.8/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/usr/lib/python3.8/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.8/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type InvalidTextRepresentation is not JSON serializable
+WARNING :- 2023-04-04 17:48:08,165 - app : Starting the db connection to display items in the cart
+WARNING :- 2023-04-04 17:48:08,165 - app : Starting the db connection to display items in the cart
+WARNING :- 2023-04-04 17:48:08,165 - app : Starting the db connection to display items in the cart
+WARNING :- 2023-04-04 17:48:08,165 - app : Starting the db connection to display items in the cart
+WARNING :- 2023-04-04 17:48:08,165 - app : Starting the db connection to display items in the cart
+WARNING :- 2023-04-04 17:48:08,165 - app : Starting the db connection to display items in the cart
+WARNING :- 2023-04-04 17:48:08,165 - app : Starting the db connection to display items in the cart
+WARNING :- 2023-04-04 17:48:08,165 - app : Starting the db connection to display items in the cart
+WARNING :- 2023-04-04 17:48:08,165 - app : Starting the db connection to display items in the cart
+WARNING :- 2023-04-04 17:48:08,165 - app : Starting the db connection to display items in the cart
+INFO :- 2023-04-04 17:48:08,374 - app : Kabir added in the list
+INFO :- 2023-04-04 17:48:08,374 - app : Kabir added in the list
+INFO :- 2023-04-04 17:48:08,374 - app : Kabir added in the list
+INFO :- 2023-04-04 17:48:08,374 - app : Kabir added in the list
+INFO :- 2023-04-04 17:48:08,374 - app : Kabir added in the list
+INFO :- 2023-04-04 17:48:08,374 - app : Kabir added in the list
+INFO :- 2023-04-04 17:48:08,374 - app : Kabir added in the list
+INFO :- 2023-04-04 17:48:08,374 - app : Kabir added in the list
+INFO :- 2023-04-04 17:48:08,374 - app : Kabir added in the list
+INFO :- 2023-04-04 17:48:08,374 - app : Kabir added in the list
+INFO :- 2023-04-04 17:48:08,374 - app : Kabir added in the list
+WARNING :- 2023-04-04 17:48:08,375 - app : Hence member added, closing the connection
+WARNING :- 2023-04-04 17:48:08,375 - app : Hence member added, closing the connection
+WARNING :- 2023-04-04 17:48:08,375 - app : Hence member added, closing the connection
+WARNING :- 2023-04-04 17:48:08,375 - app : Hence member added, closing the connection
+WARNING :- 2023-04-04 17:48:08,375 - app : Hence member added, closing the connection
+WARNING :- 2023-04-04 17:48:08,375 - app : Hence member added, closing the connection
+WARNING :- 2023-04-04 17:48:08,375 - app : Hence member added, closing the connection
+WARNING :- 2023-04-04 17:48:08,375 - app : Hence member added, closing the connection
+WARNING :- 2023-04-04 17:48:08,375 - app : Hence member added, closing the connection
+WARNING :- 2023-04-04 17:48:08,375 - app : Hence member added, closing the connection
+WARNING :- 2023-04-04 17:48:08,375 - app : Hence member added, closing the connection
+WARNING :- 2023-04-04 17:48:08,375 - app : Hence member added, closing the connection
+WARNING :- 2023-04-04 17:48:21,985 - app : Starting the db connection to display members in the list
+WARNING :- 2023-04-04 17:48:21,985 - app : Starting the db connection to display members in the list
+WARNING :- 2023-04-04 17:48:21,985 - app : Starting the db connection to display members in the list
+WARNING :- 2023-04-04 17:48:21,985 - app : Starting the db connection to display members in the list
+WARNING :- 2023-04-04 17:48:21,985 - app : Starting the db connection to display members in the list
+WARNING :- 2023-04-04 17:48:21,985 - app : Starting the db connection to display members in the list
+WARNING :- 2023-04-04 17:48:21,985 - app : Starting the db connection to display members in the list
+WARNING :- 2023-04-04 17:48:21,985 - app : Starting the db connection to display members in the list
+WARNING :- 2023-04-04 17:48:21,985 - app : Starting the db connection to display members in the list
+WARNING :- 2023-04-04 17:48:21,985 - app : Starting the db connection to display members in the list
+WARNING :- 2023-04-04 17:48:21,985 - app : Starting the db connection to display members in the list
+WARNING :- 2023-04-04 17:48:21,985 - app : Starting the db connection to display members in the list
+WARNING :- 2023-04-04 17:48:21,985 - app : Starting the db connection to display members in the list
+INFO :- 2023-04-04 17:48:22,310 - app : Displayed list of all member in the list
+INFO :- 2023-04-04 17:48:22,310 - app : Displayed list of all member in the list
+INFO :- 2023-04-04 17:48:22,310 - app : Displayed list of all member in the list
+INFO :- 2023-04-04 17:48:22,310 - app : Displayed list of all member in the list
+INFO :- 2023-04-04 17:48:22,310 - app : Displayed list of all member in the list
+INFO :- 2023-04-04 17:48:22,310 - app : Displayed list of all member in the list
+INFO :- 2023-04-04 17:48:22,310 - app : Displayed list of all member in the list
+INFO :- 2023-04-04 17:48:22,310 - app : Displayed list of all member in the list
+INFO :- 2023-04-04 17:48:22,310 - app : Displayed list of all member in the list
+INFO :- 2023-04-04 17:48:22,310 - app : Displayed list of all member in the list
+INFO :- 2023-04-04 17:48:22,310 - app : Displayed list of all member in the list
+INFO :- 2023-04-04 17:48:22,310 - app : Displayed list of all member in the list
+INFO :- 2023-04-04 17:48:22,310 - app : Displayed list of all member in the list
+INFO :- 2023-04-04 17:48:22,310 - app : Displayed list of all member in the list
+WARNING :- 2023-04-04 17:48:22,311 - app : Hence members displayed, closing the connection
+WARNING :- 2023-04-04 17:48:22,311 - app : Hence members displayed, closing the connection
+WARNING :- 2023-04-04 17:48:22,311 - app : Hence members displayed, closing the connection
+WARNING :- 2023-04-04 17:48:22,311 - app : Hence members displayed, closing the connection
+WARNING :- 2023-04-04 17:48:22,311 - app : Hence members displayed, closing the connection
+WARNING :- 2023-04-04 17:48:22,311 - app : Hence members displayed, closing the connection
+WARNING :- 2023-04-04 17:48:22,311 - app : Hence members displayed, closing the connection
+WARNING :- 2023-04-04 17:48:22,311 - app : Hence members displayed, closing the connection
+WARNING :- 2023-04-04 17:48:22,311 - app : Hence members displayed, closing the connection
+WARNING :- 2023-04-04 17:48:22,311 - app : Hence members displayed, closing the connection
+WARNING :- 2023-04-04 17:48:22,311 - app : Hence members displayed, closing the connection
+WARNING :- 2023-04-04 17:48:22,311 - app : Hence members displayed, closing the connection
+WARNING :- 2023-04-04 17:48:22,311 - app : Hence members displayed, closing the connection
+WARNING :- 2023-04-04 17:48:22,311 - app : Hence members displayed, closing the connection
+WARNING :- 2023-04-04 17:48:22,311 - app : Hence members displayed, closing the connection
+WARNING :- 2023-04-04 17:54:02,782 - app : Starting the db connection to search user in the list
+ERROR :- 2023-04-04 17:54:02,782 - app : Error occurred: not all arguments converted during string formatting
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 134, in search_by_username
+    cur.execute(show_query, username)
+TypeError: not all arguments converted during string formatting
+ERROR :- 2023-04-04 17:54:02,782 - app : Error occurred: not all arguments converted during string formatting
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 134, in search_by_username
+    cur.execute(show_query, username)
+TypeError: not all arguments converted during string formatting
+WARNING :- 2023-04-04 17:54:02,786 - app : Hence user searching done, closing the connection
+WARNING :- 2023-04-04 17:54:02,786 - app : Hence user searching done, closing the connection
+WARNING :- 2023-04-04 17:54:02,786 - app : Hence user searching done, closing the connection
+ERROR :- 2023-04-04 17:54:02,786 - app : Exception on /search/Kabir [GET]
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 134, in search_by_username
+    cur.execute(show_query, username)
+TypeError: not all arguments converted during string formatting
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 144, in search_by_username
+    return jsonify({"message": error})
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "/usr/lib/python3.8/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/usr/lib/python3.8/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.8/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type TypeError is not JSON serializable
+ERROR :- 2023-04-04 17:54:02,786 - app : Exception on /search/Kabir [GET]
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 134, in search_by_username
+    cur.execute(show_query, username)
+TypeError: not all arguments converted during string formatting
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 144, in search_by_username
+    return jsonify({"message": error})
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "/usr/lib/python3.8/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/usr/lib/python3.8/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.8/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type TypeError is not JSON serializable
+ERROR :- 2023-04-04 17:54:02,786 - app : Exception on /search/Kabir [GET]
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 134, in search_by_username
+    cur.execute(show_query, username)
+TypeError: not all arguments converted during string formatting
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 144, in search_by_username
+    return jsonify({"message": error})
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "/usr/lib/python3.8/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/usr/lib/python3.8/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.8/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type TypeError is not JSON serializable
+WARNING :- 2023-04-04 17:54:31,702 - app : Starting the db connection to search user in the list
+ERROR :- 2023-04-04 17:54:32,120 - app : Error occurred: column "username" does not exist
+LINE 1: SELECT * FROM cart WHERE username = 'Kabir';
+                                 ^
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 134, in search_by_username
+    cur.execute(show_query, (username, ))
+psycopg2.errors.UndefinedColumn: column "username" does not exist
+LINE 1: SELECT * FROM cart WHERE username = 'Kabir';
+                                 ^
+
+ERROR :- 2023-04-04 17:54:32,120 - app : Error occurred: column "username" does not exist
+LINE 1: SELECT * FROM cart WHERE username = 'Kabir';
+                                 ^
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 134, in search_by_username
+    cur.execute(show_query, (username, ))
+psycopg2.errors.UndefinedColumn: column "username" does not exist
+LINE 1: SELECT * FROM cart WHERE username = 'Kabir';
+                                 ^
+
+WARNING :- 2023-04-04 17:54:32,122 - app : Hence user searching done, closing the connection
+WARNING :- 2023-04-04 17:54:32,122 - app : Hence user searching done, closing the connection
+WARNING :- 2023-04-04 17:54:32,122 - app : Hence user searching done, closing the connection
+ERROR :- 2023-04-04 17:54:32,123 - app : Exception on /search/Kabir [GET]
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 134, in search_by_username
+    cur.execute(show_query, (username, ))
+psycopg2.errors.UndefinedColumn: column "username" does not exist
+LINE 1: SELECT * FROM cart WHERE username = 'Kabir';
+                                 ^
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 144, in search_by_username
+    return jsonify({"message": error})
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "/usr/lib/python3.8/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/usr/lib/python3.8/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.8/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type UndefinedColumn is not JSON serializable
+ERROR :- 2023-04-04 17:54:32,123 - app : Exception on /search/Kabir [GET]
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 134, in search_by_username
+    cur.execute(show_query, (username, ))
+psycopg2.errors.UndefinedColumn: column "username" does not exist
+LINE 1: SELECT * FROM cart WHERE username = 'Kabir';
+                                 ^
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 144, in search_by_username
+    return jsonify({"message": error})
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "/usr/lib/python3.8/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/usr/lib/python3.8/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.8/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type UndefinedColumn is not JSON serializable
+ERROR :- 2023-04-04 17:54:32,123 - app : Exception on /search/Kabir [GET]
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 134, in search_by_username
+    cur.execute(show_query, (username, ))
+psycopg2.errors.UndefinedColumn: column "username" does not exist
+LINE 1: SELECT * FROM cart WHERE username = 'Kabir';
+                                 ^
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 144, in search_by_username
+    return jsonify({"message": error})
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "/usr/lib/python3.8/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/usr/lib/python3.8/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.8/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type UndefinedColumn is not JSON serializable
+WARNING :- 2023-04-04 17:54:57,167 - app : Starting the db connection to search user in the list
+INFO :- 2023-04-04 17:54:57,521 - app : Displayed details of the member in the list
+INFO :- 2023-04-04 17:54:57,521 - app : Displayed details of the member in the list
+WARNING :- 2023-04-04 17:54:57,522 - app : Hence user searching done, closing the connection
+WARNING :- 2023-04-04 17:54:57,522 - app : Hence user searching done, closing the connection
+WARNING :- 2023-04-04 17:54:57,522 - app : Hence user searching done, closing the connection
+WARNING :- 2023-04-04 17:58:25,879 - app : Starting the db connection to display borrow history in the list
+INFO :- 2023-04-04 17:58:26,648 - app : Displayed details of the book type in the list
+INFO :- 2023-04-04 17:58:26,648 - app : Displayed details of the book type in the list
+WARNING :- 2023-04-04 17:58:26,651 - app : Hence borrowed history displayed, closing the connection
+WARNING :- 2023-04-04 17:58:26,651 - app : Hence borrowed history displayed, closing the connection
+WARNING :- 2023-04-04 17:58:26,651 - app : Hence borrowed history displayed, closing the connection
+WARNING :- 2023-04-04 18:06:59,731 - app : Starting the db connection to generate report of books in the list
+ERROR :- 2023-04-04 18:06:59,940 - app : Error occurred: column "library.type" must appear in the GROUP BY clause or be used in an aggregate function
+LINE 1: SELECT type, COUNT(*) AS borrow_Count FROM library WHERE typ...
+               ^
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 184, in generate_report
+    cur.execute(show_query, (type, ))
+psycopg2.errors.GroupingError: column "library.type" must appear in the GROUP BY clause or be used in an aggregate function
+LINE 1: SELECT type, COUNT(*) AS borrow_Count FROM library WHERE typ...
+               ^
+
+ERROR :- 2023-04-04 18:06:59,940 - app : Error occurred: column "library.type" must appear in the GROUP BY clause or be used in an aggregate function
+LINE 1: SELECT type, COUNT(*) AS borrow_Count FROM library WHERE typ...
+               ^
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 184, in generate_report
+    cur.execute(show_query, (type, ))
+psycopg2.errors.GroupingError: column "library.type" must appear in the GROUP BY clause or be used in an aggregate function
+LINE 1: SELECT type, COUNT(*) AS borrow_Count FROM library WHERE typ...
+               ^
+
+WARNING :- 2023-04-04 18:06:59,941 - app : Hence report has been generated, closing the connection
+WARNING :- 2023-04-04 18:06:59,941 - app : Hence report has been generated, closing the connection
+WARNING :- 2023-04-04 18:06:59,941 - app : Hence report has been generated, closing the connection
+ERROR :- 2023-04-04 18:06:59,941 - app : Exception on /report/Journal [GET]
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 184, in generate_report
+    cur.execute(show_query, (type, ))
+psycopg2.errors.GroupingError: column "library.type" must appear in the GROUP BY clause or be used in an aggregate function
+LINE 1: SELECT type, COUNT(*) AS borrow_Count FROM library WHERE typ...
+               ^
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 194, in generate_report
+    return jsonify({"message": error})
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "/usr/lib/python3.8/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/usr/lib/python3.8/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.8/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type GroupingError is not JSON serializable
+ERROR :- 2023-04-04 18:06:59,941 - app : Exception on /report/Journal [GET]
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 184, in generate_report
+    cur.execute(show_query, (type, ))
+psycopg2.errors.GroupingError: column "library.type" must appear in the GROUP BY clause or be used in an aggregate function
+LINE 1: SELECT type, COUNT(*) AS borrow_Count FROM library WHERE typ...
+               ^
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 194, in generate_report
+    return jsonify({"message": error})
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "/usr/lib/python3.8/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/usr/lib/python3.8/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.8/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type GroupingError is not JSON serializable
+ERROR :- 2023-04-04 18:06:59,941 - app : Exception on /report/Journal [GET]
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 184, in generate_report
+    cur.execute(show_query, (type, ))
+psycopg2.errors.GroupingError: column "library.type" must appear in the GROUP BY clause or be used in an aggregate function
+LINE 1: SELECT type, COUNT(*) AS borrow_Count FROM library WHERE typ...
+               ^
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 194, in generate_report
+    return jsonify({"message": error})
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/__init__.py", line 342, in jsonify
+    return current_app.json.response(*args, **kwargs)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 309, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=mimetype
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 230, in dumps
+    return json.dumps(obj, **kwargs)
+  File "/usr/lib/python3.8/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/usr/lib/python3.8/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.8/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/json/provider.py", line 122, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type GroupingError is not JSON serializable
+WARNING :- 2023-04-04 18:07:43,239 - app : Starting the db connection to generate report of books in the list
+INFO :- 2023-04-04 18:07:43,379 - app : Generate report of book type in the list
+INFO :- 2023-04-04 18:07:43,379 - app : Generate report of book type in the list
+WARNING :- 2023-04-04 18:07:43,379 - app : Hence report has been generated, closing the connection
+WARNING :- 2023-04-04 18:07:43,379 - app : Hence report has been generated, closing the connection
+WARNING :- 2023-04-04 18:07:43,379 - app : Hence report has been generated, closing the connection
