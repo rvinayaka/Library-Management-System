@@ -927,3 +927,9 @@ INFO :- 2023-04-04 18:07:43,379 - app : Generate report of book type in the list
 WARNING :- 2023-04-04 18:07:43,379 - app : Hence report has been generated, closing the connection
 WARNING :- 2023-04-04 18:07:43,379 - app : Hence report has been generated, closing the connection
 WARNING :- 2023-04-04 18:07:43,379 - app : Hence report has been generated, closing the connection
+WARNING :- 2023-04-05 12:40:59,580 - app : Starting the db connection to display members in the list
+INFO :- 2023-04-05 12:40:59,964 - app : Displayed list of all member in the list
+INFO :- 2023-04-05 12:40:59,964 - app : Displayed list of all member in the list
+WARNING :- 2023-04-05 12:40:59,965 - app : Closing the connection
+WARNING :- 2023-04-05 12:40:59,965 - app : Closing the connection
+WARNING :- 2023-04-05 12:40:59,965 - app : Closing the connection
