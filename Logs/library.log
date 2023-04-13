@@ -933,3 +933,320 @@ INFO :- 2023-04-05 12:40:59,964 - app : Displayed list of all member in the list
 WARNING :- 2023-04-05 12:40:59,965 - app : Closing the connection
 WARNING :- 2023-04-05 12:40:59,965 - app : Closing the connection
 WARNING :- 2023-04-05 12:40:59,965 - app : Closing the connection
+WARNING :- 2023-04-13 10:39:40,067 - app : Starting the db connection to display borrow history in the list
+INFO :- 2023-04-13 10:39:40,212 - app : Displayed details of the book Journal in the list
+INFO :- 2023-04-13 10:39:40,212 - app : Displayed details of the book Journal in the list
+WARNING :- 2023-04-13 10:39:40,213 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 10:41:00,252 - app : Starting the db connection to display borrow history in the list
+INFO :- 2023-04-13 10:41:00,395 - app : Journal has been taken (1,) as shown in the list
+INFO :- 2023-04-13 10:41:00,395 - app : Journal has been taken (1,) as shown in the list
+WARNING :- 2023-04-13 10:41:00,396 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 10:41:18,255 - app : Starting the db connection to display borrow history in the list
+INFO :- 2023-04-13 10:41:18,384 - app : Journal has been taken 1 as shown in the list
+INFO :- 2023-04-13 10:41:18,384 - app : Journal has been taken 1 as shown in the list
+WARNING :- 2023-04-13 10:41:18,385 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 10:42:29,432 - app : Starting the db connection to display borrow history in the list
+INFO :- 2023-04-13 10:42:29,569 - app : Journal has been taken 1 number of times as shown in the list
+INFO :- 2023-04-13 10:42:29,569 - app : Journal has been taken 1 number of times as shown in the list
+WARNING :- 2023-04-13 10:42:29,570 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 10:42:45,594 - app : Starting the db connection to generate report of books in the list
+WARNING :- 2023-04-13 10:42:45,594 - app : Starting the db connection to generate report of books in the list
+WARNING :- 2023-04-13 10:42:45,594 - app : Starting the db connection to generate report of books in the list
+INFO :- 2023-04-13 10:42:45,722 - app : Report of Journal generated in the list
+INFO :- 2023-04-13 10:42:45,722 - app : Report of Journal generated in the list
+INFO :- 2023-04-13 10:42:45,722 - app : Report of Journal generated in the list
+INFO :- 2023-04-13 10:42:45,722 - app : Report of Journal generated in the list
+WARNING :- 2023-04-13 10:42:45,723 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 10:42:45,723 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 10:45:42,705 - app : Starting the db connection to update the details 
+WARNING :- 2023-04-13 10:45:42,705 - app : Starting the db connection to update the details 
+WARNING :- 2023-04-13 10:45:42,705 - app : Starting the db connection to update the details 
+WARNING :- 2023-04-13 10:45:42,705 - app : Starting the db connection to update the details 
+WARNING :- 2023-04-13 10:45:42,705 - app : Starting the db connection to update the details 
+INFO :- 2023-04-13 10:45:42,885 - app : Member details updated: {'bookName': 'Mein campf'}
+INFO :- 2023-04-13 10:45:42,885 - app : Member details updated: {'bookName': 'Mein campf'}
+INFO :- 2023-04-13 10:45:42,885 - app : Member details updated: {'bookName': 'Mein campf'}
+INFO :- 2023-04-13 10:45:42,885 - app : Member details updated: {'bookName': 'Mein campf'}
+INFO :- 2023-04-13 10:45:42,885 - app : Member details updated: {'bookName': 'Mein campf'}
+INFO :- 2023-04-13 10:45:42,885 - app : Member details updated: {'bookName': 'Mein campf'}
+WARNING :- 2023-04-13 10:45:42,885 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 10:45:42,885 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 10:45:42,885 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 10:47:43,367 - app : Starting the db connection to update the details 
+INFO :- 2023-04-13 10:47:43,550 - app : Member details updated: {'bookName': 'Mein campf'}
+INFO :- 2023-04-13 10:47:43,550 - app : Member details updated: {'bookName': 'Mein campf'}
+WARNING :- 2023-04-13 10:47:43,551 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 10:48:42,020 - app : Starting the db connection to update the details 
+INFO :- 2023-04-13 10:48:42,202 - app : Details of None has been updated to {'bookName': 'Mein campf'}
+INFO :- 2023-04-13 10:48:42,202 - app : Details of None has been updated to {'bookName': 'Mein campf'}
+WARNING :- 2023-04-13 10:48:42,203 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 10:49:26,325 - app : Starting the db connection to update the details 
+INFO :- 2023-04-13 10:49:26,505 - app : Details of Anjali has been updated to {'bookName': 'Mein campf'}
+INFO :- 2023-04-13 10:49:26,505 - app : Details of Anjali has been updated to {'bookName': 'Mein campf'}
+WARNING :- 2023-04-13 10:49:26,506 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 11:03:43,302 - app : Starting the db connection to generate report of books in the list
+WARNING :- 2023-04-13 11:03:43,665 - settings : Hence account created, closing the connection
+ERROR :- 2023-04-13 11:03:43,665 - app : Exception on /reviews/1 [PUT]
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/settings.py", line 31, in wrapper
+    return func(*args, **kwargs)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 217, in add_reviews
+    get_username = get_member[0]
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/settings.py", line 32, in wrapper
+    except psycopg2.Error as error:
+NameError: name 'psycopg2' is not defined
+WARNING :- 2023-04-13 11:04:19,102 - app : Starting the db connection to generate report of books in the list
+WARNING :- 2023-04-13 11:04:19,261 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 11:05:01,820 - app : Starting the db connection to generate report of books in the list
+WARNING :- 2023-04-13 11:05:01,950 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 11:05:43,872 - app : Starting the db connection to generate report of books in the list
+WARNING :- 2023-04-13 11:05:44,101 - settings : Hence account created, closing the connection
+ERROR :- 2023-04-13 11:05:44,102 - app : Exception on /reviews/Journal [PUT]
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/settings.py", line 31, in wrapper
+    return func(*args, **kwargs)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 217, in add_reviews
+    get_username = get_member[0]
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/settings.py", line 32, in wrapper
+    except psycopg2.Error as error:
+NameError: name 'psycopg2' is not defined
+WARNING :- 2023-04-13 11:06:39,239 - app : Starting the db connection to generate report of books in the list
+WARNING :- 2023-04-13 11:06:39,371 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 11:07:46,401 - app : Starting the db connection to generate report of books in the list
+WARNING :- 2023-04-13 11:07:46,576 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 11:08:38,055 - app : Starting the db connection to generate report of books in the list
+WARNING :- 2023-04-13 11:08:38,189 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 11:10:29,183 - app : Starting the db connection to generate report of books in the list
+WARNING :- 2023-04-13 11:10:29,183 - app : Starting the db connection to generate report of books in the list
+WARNING :- 2023-04-13 11:10:29,446 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 11:10:29,446 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 11:10:46,444 - app : Starting the db connection to generate report of books in the list
+WARNING :- 2023-04-13 11:10:46,652 - settings : Hence account created, closing the connection
+ERROR :- 2023-04-13 11:10:46,652 - app : Exception on /reviews/1 [PUT]
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/settings.py", line 31, in wrapper
+    return func(*args, **kwargs)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 237, in add_reviews
+    return jsonify({"message": data}), 200
+NameError: name 'data' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/settings.py", line 32, in wrapper
+    except psycopg2.Error as error:
+NameError: name 'psycopg2' is not defined
+WARNING :- 2023-04-13 11:11:10,059 - app : Starting the db connection to generate report of books in the list
+WARNING :- 2023-04-13 11:11:10,247 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 11:11:44,582 - app : Starting the db connection to generate report of books in the list
+WARNING :- 2023-04-13 11:11:44,721 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 11:12:05,929 - app : Starting the db connection to generate report of books in the list
+WARNING :- 2023-04-13 11:12:06,447 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 11:16:19,972 - app : Starting the db connection to generate report of books in the list
+WARNING :- 2023-04-13 11:16:20,117 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 11:16:25,788 - app : Starting the db connection to generate report of books in the list
+WARNING :- 2023-04-13 11:16:25,788 - app : Starting the db connection to generate report of books in the list
+WARNING :- 2023-04-13 11:16:25,932 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 11:16:25,932 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 11:35:54,229 - app : Starting the db connection to generate report of books in the list
+INFO :- 2023-04-13 11:35:54,412 - app : Anjali has been posted a review as Nice novel
+INFO :- 2023-04-13 11:35:54,412 - app : Anjali has been posted a review as Nice novel
+WARNING :- 2023-04-13 11:35:54,413 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 11:36:02,363 - app : Starting the db connection to generate report of books in the list
+WARNING :- 2023-04-13 11:36:02,363 - app : Starting the db connection to generate report of books in the list
+WARNING :- 2023-04-13 11:36:02,363 - app : Starting the db connection to generate report of books in the list
+INFO :- 2023-04-13 11:36:02,482 - app : As Kabir has not returned the book so can't post reviews
+INFO :- 2023-04-13 11:36:02,482 - app : As Kabir has not returned the book so can't post reviews
+INFO :- 2023-04-13 11:36:02,482 - app : As Kabir has not returned the book so can't post reviews
+INFO :- 2023-04-13 11:36:02,482 - app : As Kabir has not returned the book so can't post reviews
+WARNING :- 2023-04-13 11:36:02,483 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 11:36:02,483 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 11:36:43,447 - app : Starting the db connection to generate report of books in the list
+WARNING :- 2023-04-13 11:36:43,447 - app : Starting the db connection to generate report of books in the list
+WARNING :- 2023-04-13 11:36:43,447 - app : Starting the db connection to generate report of books in the list
+WARNING :- 2023-04-13 11:36:43,447 - app : Starting the db connection to generate report of books in the list
+WARNING :- 2023-04-13 11:36:43,447 - app : Starting the db connection to generate report of books in the list
+INFO :- 2023-04-13 11:36:43,627 - app : Kabir has been posted a review as Perfectly written
+INFO :- 2023-04-13 11:36:43,627 - app : Kabir has been posted a review as Perfectly written
+INFO :- 2023-04-13 11:36:43,627 - app : Kabir has been posted a review as Perfectly written
+INFO :- 2023-04-13 11:36:43,627 - app : Kabir has been posted a review as Perfectly written
+INFO :- 2023-04-13 11:36:43,627 - app : Kabir has been posted a review as Perfectly written
+INFO :- 2023-04-13 11:36:43,627 - app : Kabir has been posted a review as Perfectly written
+WARNING :- 2023-04-13 11:36:43,628 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 11:36:43,628 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 11:36:43,628 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 11:56:56,241 - app : Starting the db connection to add user's request in the list
+INFO :- 2023-04-13 11:56:56,459 - app : Anjali has been posted requests of Wings of Fire
+INFO :- 2023-04-13 11:56:56,459 - app : Anjali has been posted requests of Wings of Fire
+WARNING :- 2023-04-13 11:56:56,460 - settings : Hence account created, closing the connection
+WARNING :- 2023-04-13 12:08:44,418 - app : Starting the db connection to calculate the user's fine if not returned
+WARNING :- 2023-04-13 12:08:44,579 - settings : Closing the connection
+ERROR :- 2023-04-13 12:08:44,579 - app : Exception on /fine_calc/2 [PUT]
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/wrappers.py", line 128, in on_json_loading_failed
+    return super().on_json_loading_failed(e)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/werkzeug/wrappers/request.py", line 631, in on_json_loading_failed
+    raise BadRequest(
+werkzeug.exceptions.BadRequest: 400 Bad Request: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/settings.py", line 31, in wrapper
+    return func(*args, **kwargs)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 327, in fine_calculations
+    data = request.get_json()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/werkzeug/wrappers/request.py", line 591, in get_json
+    return self.on_json_loading_failed(None)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/wrappers.py", line 133, in on_json_loading_failed
+    raise BadRequest() from e
+werkzeug.exceptions.BadRequest: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/settings.py", line 32, in wrapper
+    except psycopg2.Error as error:
+NameError: name 'psycopg2' is not defined
+WARNING :- 2023-04-13 12:09:20,741 - app : Starting the db connection to calculate the user's fine if not returned
+WARNING :- 2023-04-13 12:09:20,897 - settings : Closing the connection
+ERROR :- 2023-04-13 12:09:20,898 - app : Exception on /fine_calc/2 [PUT]
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/wrappers.py", line 128, in on_json_loading_failed
+    return super().on_json_loading_failed(e)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/werkzeug/wrappers/request.py", line 631, in on_json_loading_failed
+    raise BadRequest(
+werkzeug.exceptions.BadRequest: 400 Bad Request: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/settings.py", line 31, in wrapper
+    return func(*args, **kwargs)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 327, in fine_calculations
+    data = request.get_json()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/werkzeug/wrappers/request.py", line 591, in get_json
+    return self.on_json_loading_failed(None)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/wrappers.py", line 133, in on_json_loading_failed
+    raise BadRequest() from e
+werkzeug.exceptions.BadRequest: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/settings.py", line 32, in wrapper
+    except psycopg2.Error as error:
+NameError: name 'psycopg2' is not defined
+WARNING :- 2023-04-13 12:10:18,429 - app : Starting the db connection to calculate the user's fine if not returned
+WARNING :- 2023-04-13 12:10:18,583 - settings : Closing the connection
+ERROR :- 2023-04-13 12:10:18,583 - app : Exception on /fine_calc/2 [PUT]
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/wrappers.py", line 128, in on_json_loading_failed
+    return super().on_json_loading_failed(e)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/werkzeug/wrappers/request.py", line 631, in on_json_loading_failed
+    raise BadRequest(
+werkzeug.exceptions.BadRequest: 400 Bad Request: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/settings.py", line 31, in wrapper
+    return func(*args, **kwargs)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/app.py", line 327, in fine_calculations
+    fine = request.json('fine')
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/werkzeug/wrappers/request.py", line 548, in json
+    return self.get_json()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/werkzeug/wrappers/request.py", line 591, in get_json
+    return self.on_json_loading_failed(None)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/wrappers.py", line 133, in on_json_loading_failed
+    raise BadRequest() from e
+werkzeug.exceptions.BadRequest: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/bc2113451/Desktop/VS Code/Oops/.venv/lib/python3.8/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/bc2113451/Desktop/VS Code/Oops/Library/settings.py", line 32, in wrapper
+    except psycopg2.Error as error:
+NameError: name 'psycopg2' is not defined
+WARNING :- 2023-04-13 12:12:55,143 - app : Starting the db connection to calculate the user's fine if not returned
+WARNING :- 2023-04-13 12:12:55,262 - settings : Closing the connection
+WARNING :- 2023-04-13 12:13:16,258 - app : Starting the db connection to calculate the user's fine if not returned
+WARNING :- 2023-04-13 12:13:16,258 - app : Starting the db connection to calculate the user's fine if not returned
+INFO :- 2023-04-13 12:13:16,465 - app : Kabir has borrowed on 2022-09-12 and not yet returned the book, so the fine is 200
+INFO :- 2023-04-13 12:13:16,465 - app : Kabir has borrowed on 2022-09-12 and not yet returned the book, so the fine is 200
+INFO :- 2023-04-13 12:13:16,465 - app : Kabir has borrowed on 2022-09-12 and not yet returned the book, so the fine is 200
+WARNING :- 2023-04-13 12:13:16,466 - settings : Closing the connection
+WARNING :- 2023-04-13 12:13:16,466 - settings : Closing the connection
+WARNING :- 2023-04-13 12:14:03,829 - app : Starting the db connection to calculate the user's fine if not returned
+INFO :- 2023-04-13 12:14:04,044 - app : Kabir has borrowed book on 2022-09-12 and not yet returned it, so the fine is 200
+INFO :- 2023-04-13 12:14:04,044 - app : Kabir has borrowed book on 2022-09-12 and not yet returned it, so the fine is 200
+WARNING :- 2023-04-13 12:14:04,045 - settings : Closing the connection
+WARNING :- 2023-04-13 12:14:13,596 - app : Starting the db connection to calculate the user's fine if not returned
+WARNING :- 2023-04-13 12:14:13,596 - app : Starting the db connection to calculate the user's fine if not returned
+WARNING :- 2023-04-13 12:14:13,596 - app : Starting the db connection to calculate the user's fine if not returned
+WARNING :- 2023-04-13 12:14:13,724 - settings : Closing the connection
+WARNING :- 2023-04-13 12:14:13,724 - settings : Closing the connection
+WARNING :- 2023-04-13 12:15:06,891 - app : Starting the db connection to calculate the user's fine if not returned
+WARNING :- 2023-04-13 12:15:07,082 - settings : Closing the connection
+WARNING :- 2023-04-13 12:15:11,269 - app : Starting the db connection to calculate the user's fine if not returned
+WARNING :- 2023-04-13 12:15:11,269 - app : Starting the db connection to calculate the user's fine if not returned
+WARNING :- 2023-04-13 12:15:11,445 - settings : Closing the connection
+WARNING :- 2023-04-13 12:15:11,445 - settings : Closing the connection

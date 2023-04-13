@@ -46,6 +46,6 @@ def handle_exceptions(func):
                 conn.close()
             if cur:
                 cur.close()
-            logger(__name__).warning("Hence account created, closing the connection")
+            logger(__name__).warning("Closing the connection")
     return wrapper
 
